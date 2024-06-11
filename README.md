@@ -26,8 +26,8 @@ The solution is a static page in which only HTML and CSS were used for its creat
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/VicManuel-Jiro/PracticaFrontEndMentor_RecipePage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/VicManuel-Jiro/PracticaFrontEndMentor_RecipePage)
+- Live Site URL: [Live](https://vicmanuel-jiro.github.io/PracticaFrontEndMentor_RecipePage/)
 
 ## My process
 
