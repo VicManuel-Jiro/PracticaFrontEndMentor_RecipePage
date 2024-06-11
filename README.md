@@ -64,5 +64,4 @@ ul li::before {
 
 - Website - [Victor Manuel Jiménez Rosas](https://vicmanuel-jiro.github.io/Portafolio/)
 - Frontend Mentor - [@VicManuel-Jiro](https://www.frontendmentor.io/profile/VicManuel-Jiro)
-- Github - [@VicManuel-Jiro](https://github.com/VicManuel-Jiro)
 
