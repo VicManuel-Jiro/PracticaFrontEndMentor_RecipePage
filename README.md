@@ -22,6 +22,7 @@ The solution is a static page in which only HTML and CSS were used for its creat
 ### Screenshot
 
 [![Mobile](https://i.postimg.cc/ZKK7RHLP/creenshot-mobile.jpg)](https://postimg.cc/rz3CZS3z)
+[![Desktop](https://i.postimg.cc/4xyS8P74/screenshot.jpg)](https://postimg.cc/k2rsGxvL)
 
 ### Links
 
